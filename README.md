@@ -120,5 +120,13 @@ To run the application locally, the components are configured as follows:
 3. Rebuild and restart the application using Docker:
    ```bash
    docker-compose up --build
+### Images of the Website
+
+![Screenshot (184)](https://github.com/user-attachments/assets/9deef8d3-c061-4d74-be80-cb64018ed4cd)
+![Screenshot (185)](https://github.com/user-attachments/assets/f96f94f7-ebb1-4cd6-815d-6f4cefcd9f90)
+![Screenshot (186)](https://github.com/user-attachments/assets/5b6df0af-78a4-4cd0-bebd-509787c51046)
+![Screenshot (187)](https://github.com/user-attachments/assets/2cfe371b-ea09-43ae-bfe4-35a63e52ffe4)
+
+
 
 
