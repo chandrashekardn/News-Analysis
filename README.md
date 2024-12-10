@@ -17,6 +17,8 @@ This project is a live news scraper and sentiment analysis tool. It scrapes news
   - [Backend (localhost:5000)](#backend-running-on-localhost5000)
   - [Frontend (localhost:8080)](#frontend-running-on-localhost8080)
 - [Local Development](#local-development)
+- [Images of the Website](#images-of-the-website)
+
   
 
 ---
